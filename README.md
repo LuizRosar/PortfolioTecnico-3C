@@ -13,8 +13,12 @@ Sou empático, flexível e responsável, procuro sempre ter um bom relacionament
 Excel básico
 Pacote google
 Conhecimentos sobre Banco de dados, modelagem de sistemas e programação
+___________________________________________________________________________________________________________________________________________________________________________________
+Portfólio 2° Trimestre
 
-
+Para ir para a pasta de Banco de Dados vá para o link: https://github.com/LuizRosar/PortfolioTecnico-3C/tree/main/Bando_de_Dados/usuario_bd
+Para ir para a pasta de Desenvolvimento de Sistemas vá para o link: https://github.com/LuizRosar/PortfolioTecnico-3C/tree/main/Desenvolvimento_de_Sistemas
+Para ir para a pasta de Programção de Apps vá para o link: https://github.com/LuizRosar/PortfolioTecnico-3C/tree/main/Programacao_de_Aplicativos
 
 
 
