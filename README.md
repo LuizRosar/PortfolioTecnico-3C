@@ -19,6 +19,6 @@ Portfólio 2° Trimestre
 Para ir para a pasta de Banco de Dados vá para o link: https://github.com/LuizRosar/PortfolioTecnico-3C/tree/main/Bando_de_Dados/usuario_bd
 Para ir para a pasta de Desenvolvimento de Sistemas vá para o link: https://github.com/LuizRosar/PortfolioTecnico-3C/tree/main/Desenvolvimento_de_Sistemas
 Para ir para a pasta de Programção de Apps vá para o link: https://github.com/LuizRosar/PortfolioTecnico-3C/tree/main/Programacao_de_Aplicativos
-
+Para ir para o Programa Pets em Testes de Sistemas vá para: https://github.com/LuizRosar/PortfolioTecnico-3C/tree/main/Testes_de_Sistemas/Pets
 
 
